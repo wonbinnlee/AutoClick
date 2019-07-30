@@ -1,0 +1,1 @@
+A floating window, can auto click or auto swipe any where.
